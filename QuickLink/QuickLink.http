@@ -1,0 +1,6 @@
+@QuickLink_HostAddress = http://localhost:5201
+
+GET {{QuickLink_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
