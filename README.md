@@ -19,7 +19,7 @@ QuickLink is a URL shortener REST API developed using ASP.NET and Redis, designe
 
 ### Prerequisites
 
-- [.NET SDK](https://dotnet.microsoft.com/download) (version 5.0 or higher)
+- [.NET SDK](https://dotnet.microsoft.com/download) (version 8.0 or higher)
 - [Redis](https://redis.io/download) (make sure it's running)
 
 ### Installation
